@@ -5,7 +5,7 @@
 	"version": "0.1.0",
 	"type": "module",
 	"module": "index.mjs",
-	"author": "Godot contributors",
+	"author": "Godot Engine contributors",
 	"license": "MIT",
 	"scripts": {
 		"build": "npx --yes esbuild index.mjs --bundle --platform=node --target=node16 --banner:js='// DO NOT EDIT BY HAND. Use `npm run build` to create this file.' --outfile=index.cjs"
