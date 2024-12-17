@@ -15,5 +15,6 @@
 			"import": "./index.mjs",
 			"require": "./index.cjs"
 		}
-	}
+	},
+	"repository": "godotengine/eslint-plugin-ignore-c-preprocessors"
 }
