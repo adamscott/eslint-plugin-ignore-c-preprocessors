@@ -1,6 +1,6 @@
 const plugin = {
 	meta: {
-		name: "@godot/eslint-plugin-ignore-c-preprocessors",
+		name: "godot-eslint-plugin-ignore-c-preprocessors",
 		version: "0.1.0"
 	},
 	processors: {

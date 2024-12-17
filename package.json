@@ -1,6 +1,6 @@
 {
 	"private": true,
-	"name": "@godot/eslint-plugin-ignore-c-preprocessors",
+	"name": "godot-eslint-plugin-ignore-c-preprocessors",
 	"description": "eslint plugin which skips C preprocessors.",
 	"version": "0.1.0",
 	"type": "module",
